@@ -2,4 +2,4 @@
 Weather app with events
 
 
-![alt text](https://github.com/[wayomi]/[WeatherAPP]/blob/[main]/output.jpg?raw=true)
+![alt text](https://github.com/[wayomi]/[WeatherAPP]/blob/[main]/Output.jpg?raw=true)
