@@ -1,0 +1,35 @@
+.Heading {
+  background-color: #003366;
+  height: 50px;
+  width: 1600px;
+  color: #008ae6;
+}
+
+.label {
+  font-size: large;
+  color: blue;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.text {
+  color: #6666ff;
+  font-size: medium;
+}
+
+.btn {
+  margin-left: 80px;
+  margin-top: 20px;
+  width: 150px;
+  height: 30px;
+  background-color: #006600;
+  font-size: medium;
+  color: #39e600;
+}
+
+.display {
+  font-size: larger;
+  margin-top: 20px;
+  font-family: "Courier New", Courier, monospace;
+  color: #003366;
+}

@@ -1,0 +1,25 @@
+.Heading {
+  background-color: #003366;
+  height: 50px;
+  width: 1600px;
+  color: #008ae6;
+}
+
+th {
+  background-color: #0099ff;
+  color: white;
+}
+
+th,
+td {
+  width: 1600px;
+  border-bottom: 1px solid #ddd;
+}
+
+td {
+  font-size: small;
+}
+.top {
+  color: #003366;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
